@@ -1,0 +1,3 @@
+This is a simple program that will take in an array of numbers
+and filter the non-primes from the primes, storing the primes
+in a new ArrayList.
