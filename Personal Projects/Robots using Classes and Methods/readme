@@ -1,0 +1,6 @@
+Small program to practice the use of a single class and to call its methods with
+a robot object. 
+
+Robot can call a task function to complete chores - will deplete its battery.
+Robot can call a energry report function to retrieve current battery life.
+Robot can call a energy transfer function to recharge its battery from other robots during runtime.
